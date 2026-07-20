@@ -38,9 +38,7 @@ Universal 3D (URP) 기본 템플릿으로 새 프로젝트를 생성합니다.
 
 [AIWorkshopEssentials.unitypackage](https://drive.google.com/file/d/1sPFrn4W1PGiECAeICMeQv4EWss6WKqBf/view?usp=drive_link)를 다운로드해 프로젝트에 임포트합니다.
 
-### 4. Unity AI Assistant 버전 변경
-
-Package Manager > Assistant > Version History > See other versions > **2.13.0-pre.2** > Update 를 선택합니다.
+### 4. Unity AI Assistant 최신 패키지 설치
 
 ### 5. 옵션 설정
 

@@ -46,6 +46,8 @@ Unity > Preferences > AI 에서 다음과 같이 설정합니다.
 
 - Enable Checkpoints — **Off**
 - Enable Asset Knowledge — **On**
+- Configure Default Permissions - **Allow**
+
 
 ## 진행 방법
 
